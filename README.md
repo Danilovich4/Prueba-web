@@ -1,2 +1,2 @@
-.[!NOTE]
-Aqui tienes una nota
+> .[!NOTE]
+> Aqui tienes una nota
